@@ -4,7 +4,9 @@ dat = database.tb
 
 names(dat)
 
-#summary statistics
+####Testing
+
+#summary stuff
 # summary(dat$sex)
 # summary(dat$age)
 # summary(as.factor(dat$nationality))
@@ -12,6 +14,8 @@ names(dat)
 # summary(as.factor(dat$first_language))
 # summary(dat$re_imprisonment)
 # summary(dat$hta)
+
+
 # summary(dat$dm)
 # summary(dat$std)
 # summary(dat$hiv_aids)
